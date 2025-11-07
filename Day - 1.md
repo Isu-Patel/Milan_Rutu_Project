@@ -1,4 +1,4 @@
-## Diving into Python: Your First Steps
+## Diving into Python: Your First Steps 
 
 Python. The name evokes images of slithering reptiles, but in the tech world, it signifies one of the most popular and versatile programming languages around. Whether you're dreaming of crafting web applications, analyzing data, or automating mundane tasks, Python is a fantastic place to start your coding journey.
 
