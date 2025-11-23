@@ -1,1 +1,0 @@
-This is a debug content for Day 1.
